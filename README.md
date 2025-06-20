@@ -1,4 +1,4 @@
-# Содержание репозитория GitHub (Contents)
+# My GitHub Contents (Содержание моего репозитория)
 
 ## BMSTU
 
@@ -79,6 +79,12 @@
 38. bmstu-6sem-smart_devices-v5.2 (Смарт устройства, лаб. 5) [Link](https://github.com/EduardAleksandrov/bmstu-6sem-smart_devices-v5.2)
 
 39. bmstu-6sem-smart_devices-v6 (Смарт устройства, лаб. 6) [Link](https://github.com/EduardAleksandrov/bmstu-6sem-smart_devices-v6)
+
+40. bmstu-6sem-ppp-v1 (Programming parallel processes) [Link](https://github.com/EduardAleksandrov/bmstu-6sem-ppp-v1)
+
+41. bmstu-6sem-dsp-v1 (Digital signal processing) [Link](https://github.com/EduardAleksandrov/bmstu-6sem-dsp-v1)
+
+42. bmstu-diploma-v1 (Bachelor Diploma Project) [Link](https://github.com/EduardAleksandrov/bmstu-diploma-v1)
 
 ## Prof
 
