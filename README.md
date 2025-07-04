@@ -94,6 +94,8 @@
 
 3. prof-1year-html_css_js-v1 (Разбор html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
 
+4. prof-1year-cpp_qt_cg-v1 (OpenGL in Qt) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_qt_cg-v1)
+
 ## Tests
 
 1. testphpfuture [Link](https://github.com/EduardAleksandrov/testphpfuture)
