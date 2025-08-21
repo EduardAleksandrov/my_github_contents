@@ -96,6 +96,9 @@
 
 4. prof-1year-cpp_qt_cg-v1 (OpenGL in Qt) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_qt_cg-v1)
 
+5. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
+
+
 ## Tests
 
 1. testphpfuture [Link](https://github.com/EduardAleksandrov/testphpfuture)
