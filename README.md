@@ -98,6 +98,8 @@
 
 5. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
 
+6. prof-1year-AI_book (Book practise) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
+
 
 ## Tests
 
