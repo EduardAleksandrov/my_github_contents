@@ -100,6 +100,8 @@
 
 6. prof-1year-AI_book (Book practise) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
 
+7. prof-1year-leet-v1 (Leetcode C++) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
+
 
 ## Tests
 
