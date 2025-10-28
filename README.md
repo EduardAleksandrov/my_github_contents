@@ -102,6 +102,8 @@
 
 7. prof-1year-leet-v1 (Leetcode C++) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
 
+8. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
+
 
 ## Tests
 
