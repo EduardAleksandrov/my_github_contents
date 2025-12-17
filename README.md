@@ -99,9 +99,9 @@
 
 5. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
 
-6. prof-1year-AI_book (Book practise) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
+6. prof-1year-AI_book (Learning Python, + AI Book) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
 
-7. prof-1year-leet-v1 (Leetcode C++) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
+7. prof-1year-leet-v1 (Learning C/C++, + Leetcode) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
 
 8. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
 
