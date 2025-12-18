@@ -95,11 +95,11 @@
 
 3. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
 
-4. prof-1year-AI_book (Learning Python, + AI Book) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
+4. prof-1year-learning_python (Learning Python, + AI Book) [link](https://github.com/EduardAleksandrov/prof-1year-learning_python)
 
-5. prof-1year-leet-v1 (Learning C/C++, + Leetcode) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
+5. prof-1year-learning_cpp (Learning C/C++, + Leetcode) [link](https://github.com/EduardAleksandrov/prof-1year-learning_cpp)
 
-6. prof-1year-cs_std-v1 (Learning C#) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_std-v1)
+6. prof-1year-learning_cs (Learning C#) [Link](https://github.com/EduardAleksandrov/prof-1year-learning_cs)
 
 7. prof-1year-html_css_js-v1 (learning html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
 
