@@ -89,19 +89,19 @@
 
 ## Prof
 
-1. prof-1year-cpp_std-v1 (Разбор C++ до 23 стандарта) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_std-v1)
+1. prof-1year-cpp_std-v1 (Разбор C++ до 23 стандарта, архив) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_std-v1)
 
-2. prof-1year-cs_std-v1 (Разбор стандарта C#) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_std-v1)
+2. prof-1year-cpp_qt_cg-v1 (OpenGL in Qt) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_qt_cg-v1)
 
-3. prof-1year-html_css_js-v1 (Разбор html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
+3. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
 
-4. prof-1year-cpp_qt_cg-v1 (OpenGL in Qt) [Link](https://github.com/EduardAleksandrov/prof-1year-cpp_qt_cg-v1)
+4. prof-1year-AI_book (Learning Python, + AI Book) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
 
-5. prof-1year-cs_rabbitmq-v1 (C# + RabbitMQ) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_rabbitmq-v1)
+5. prof-1year-leet-v1 (Learning C/C++, + Leetcode) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
 
-6. prof-1year-AI_book (Learning Python, + AI Book) [link](https://github.com/EduardAleksandrov/prof-1year-AI_book)
+6. prof-1year-cs_std-v1 (Learning C#) [Link](https://github.com/EduardAleksandrov/prof-1year-cs_std-v1)
 
-7. prof-1year-leet-v1 (Learning C/C++, + Leetcode) [link](https://github.com/EduardAleksandrov/prof-1year-leet-v1)
+7. prof-1year-html_css_js-v1 (learning html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
 
 8. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
 
