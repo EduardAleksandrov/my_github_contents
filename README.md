@@ -101,9 +101,11 @@
 
 6. prof-1year-learning_cs (Learning C#) [Link](https://github.com/EduardAleksandrov/prof-1year-learning_cs)
 
-7. prof-1year-html_css_js-v1 (Learning html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
+7. prof-1year-learning_java-v1 (Learning Java v1) [link](https://github.com/EduardAleksandrov/prof-1year-learning_java-v1)
 
-8. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
+8. prof-1year-html_css_js-v1 (Learning html, css, js) [Link](https://github.com/EduardAleksandrov/prof-1year-html_css_js-v1)
+
+9. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
 
 
 ## Tests
