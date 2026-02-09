@@ -126,6 +126,7 @@
 
 8. test_dobyte [Link](https://github.com/EduardAleksandrov/test_dobyte)
 
+9. test_dobyte_new_2026 [Link](https://github.com/EduardAleksandrov/test_dobyte-new)
 
 ## Projects
 
