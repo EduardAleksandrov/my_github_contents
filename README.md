@@ -130,6 +130,8 @@
 
 10. test_gridnine [link](https://github.com/EduardAleksandrov/test_gridnine)
 
+11. test_cleverence [link](https://github.com/EduardAleksandrov/test_cleverence)
+
 ## Projects
 
 1. Project M (C# Dotnet 10.0 Angular Microservices) [link](https://github.com/EduardAleksandrov/proj-projectm_front_back)
