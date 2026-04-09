@@ -107,6 +107,8 @@
 
 9. prof-1year-java_webmvc-v1.git (Java Spring MVC первые прикидки) [link](https://github.com/EduardAleksandrov/prof-1year-java_webmvc-v1)
 
+10. prof-1year-javafxone3d (JavaFX 3d) [link](https://github.com/EduardAleksandrov/prof-1year-javafxone3d)
+
 
 ## Tests
 
