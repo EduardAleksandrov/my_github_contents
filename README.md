@@ -109,6 +109,8 @@
 
 10. prof-1year-javafxone3d (JavaFX 3d) [link](https://github.com/EduardAleksandrov/prof-1year-javafxone3d)
 
+11. prof-1year-java_webrest-v1(Java REST Liquibase) [link](https://github.com/EduardAleksandrov/prof-1year-java_webrest-v1)
+
 
 ## Tests
 
